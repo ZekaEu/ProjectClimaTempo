@@ -1,0 +1,15 @@
+{
+  "name": "projetoclimatempo",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
